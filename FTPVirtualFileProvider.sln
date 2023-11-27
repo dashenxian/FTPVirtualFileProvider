@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPVirtualFileProvider", "FTPVirtualFileProvider\FTPVirtualFileProvider.csproj", "{F7A7C3BA-0E17-4B18-ABD7-8FA58F7503A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTPVirtualFileProviderTest", "FTPVirtualFileProviderTest\FTPVirtualFileProviderTest.csproj", "{8290A1E6-AD14-4037-8D11-3AEB6F9FA27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A7C3BA-0E17-4B18-ABD7-8FA58F7503A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A7C3BA-0E17-4B18-ABD7-8FA58F7503A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A7C3BA-0E17-4B18-ABD7-8FA58F7503A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A7C3BA-0E17-4B18-ABD7-8FA58F7503A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8290A1E6-AD14-4037-8D11-3AEB6F9FA27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8290A1E6-AD14-4037-8D11-3AEB6F9FA27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8290A1E6-AD14-4037-8D11-3AEB6F9FA27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8290A1E6-AD14-4037-8D11-3AEB6F9FA27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6359D7E6-19A9-43B3-B492-D4544C2E1519}
+	EndGlobalSection
+EndGlobal
